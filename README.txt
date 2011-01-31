@@ -6,4 +6,6 @@ This is test file.
 
 はやくGitを使いこなせるようになりたいな！
 
+編集テスト
+
 dawakako
