@@ -8,4 +8,6 @@ This is test file.
 
 編集テスト
 
+さらに編集
+
 dawakako
