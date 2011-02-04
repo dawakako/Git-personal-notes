@@ -1,6 +1,7 @@
 body {
 color:#343434;
-wigth:900px;
+max-width: 900px;
+align:center;
 }
 
 h1,h2,h3,h4,h5,h6 ul,li{
