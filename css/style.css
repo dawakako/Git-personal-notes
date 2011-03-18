@@ -28,7 +28,8 @@ h1 {
 }
 
 .d_border {
-    border:dotted brown 1px;
+    border:dotted gray 1px;
+    width:850px;
 }
 
 .b {
