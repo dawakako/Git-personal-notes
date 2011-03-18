@@ -12,27 +12,35 @@ table, caption, tbody, tfoot, thead, tr, th, td {
     border: 0;
     outline: 0;
     font-size: 100%;
-    font-weight:normal;
+    font-weight: normal;
     vertical-align: baseline;
     background: transparent;
+    list-style-type: none;
 }
 
 body {
-    color:#343434;
-    wigth:900px;
+    color: #343434;
+    wigth: 900px;
 }
 
 h1 {
-    font-weight:bold;
-
+    font-weight: bold;
 }
 
+h1,h2,h3 {
+    padding: 3px 0 0 3px;
+}
 .d_border {
-    border:dotted gray 1px;
-    width:850px;
+    border: solid gray 1px;
+    width: 850px;
+    margin: 0 0 0 10px;
+    padding: 3px;
 }
 
+.u_line {
+    text-decoration:underline;
+}
 .b {
-    color:green;
-    font-weight:normal;
+    color: green;
+    font-weight: normal;
 }
